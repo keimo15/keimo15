@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+            <div>
+              <p>私はcpp界のナッシーです</p>
+              <a href="https://github.com/najah7/pokemon-stats-checker" target="_blank">
+                <img src="https://graph-bucket-sugiyama.s3.ap-northeast-1.amazonaws.com/keimo15/graph.png" width="300px" />
+              </a>
+              <p>powered by <a href="https://github.com/najah7/pokemon-stats-checker">エンジニア種族値チェッカー</a></p>
+            </div>
+          
 <!--
 **keimo15/keimo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
