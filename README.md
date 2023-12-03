@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keimo15)](https://github.com/anuraghazra/github-readme-stats)
 
             <div>
               <p>私はcpp界のナッシーです</p>
